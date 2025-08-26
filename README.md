@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Jacor4454
+- Most code I write is on a local gitlab I use, so if code is not up to date just ping me and I will update it from there (there will also be periodical updates)
 - 👀 I’m interested in Ai, processor architecture, ML and robotics
 - 🌱 I’m currently learning AI and Robotics at Aberystwyth University
 - 💞️ I’m looking to collaborate on any form of machine learning, emulation, processor architecture, electrical design/engineering
